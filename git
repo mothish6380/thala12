@@ -1,0 +1,9 @@
+Example
+1.Git
+2.git config --global user.name dharanijashu
+3.git config --global user.email dharanir.sse@saveetha.com
+4.git clone https://github.com/dharanijashu/Fengalrepo.git
+5.cd Fengalrepo //repo in local system
+6.git add . //Files in staging area only
+git commit -m "No changes"
+a. git push
